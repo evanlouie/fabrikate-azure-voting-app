@@ -1,4 +1,4 @@
 name: azure-voting-app
 type: helm
 method: local
-path: pizza
+path: voting
