@@ -1,4 +1,4 @@
 name: azure-voting-app
-type: static
-method: http
-source: https://raw.githubusercontent.com/Azure-Samples/azure-voting-app-redis/master/azure-vote-all-in-one-redis.yaml
+type: helm
+method: local
+path: pizza
